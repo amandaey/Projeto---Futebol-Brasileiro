@@ -1,3 +1,5 @@
+![Design sem nome (1)](https://github.com/amandaey/Projeto-Final/assets/135295845/d1b845c8-7685-4f81-a909-bd8473908c10)
+
 # Projeto Final da Capacitação
 > Status: em desenvolvimento
 
